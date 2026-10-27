@@ -1,6 +1,6 @@
 # Hi, I'm Vitalii 👋
 
-**Frontend Developer** · HTML/CSS · JavaScript · React · Shopify — Odesa, Ukraine · remote
+**Frontend Developer** · HTML/CSS · JavaScript · React · Shopify — Odesa · remote
 
 I turn Figma designs into fast, responsive websites, from a single landing page to the section templates behind **5,000+ websites a month**. At Scale Final I owned the visual layer of a site generator whose output grew from 500 to 5,000+ sites per month in 4 months.
 
@@ -24,4 +24,4 @@ I turn Figma designs into fast, responsive websites, from a single landing page 
 
 [Email](mailto:mykhailiuchenko.vitalii@gmail.com) · [Telegram](https://t.me/iamkil) · [LinkedIn](https://www.linkedin.com/in/vitalii-mykhailiuchenko/)
 
-Open to frontend roles at international companies. Available 06:00–24:00 Kyiv time (UTC+2/+3).
+Open to frontend roles at international companies. Available 06:00–24:00 Eastern European Time (UTC+2/+3).
